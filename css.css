@@ -1,0 +1,51 @@
+.header-container {
+    background-color: blanchedalmond; 
+    padding: 20px; 
+}
+
+.happy {
+    background-color: blanchedalmond; 
+    padding: 20px; 
+}
+
+
+.title {
+    color: crimson;
+    font-size: 2.5em; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0;
+}
+
+.content {
+    font-size: 1.5em; 
+    color: forestgreen;
+    text-align: center;
+    margin: 0; 
+}
+
+.generate-fact-container {
+    margin-bottom: 20px; 
+    text-align: center;
+}
+
+
+
+.generate-fact-container button {
+    padding: 8px 12px; 
+    background-color:indianred; 
+    color: bisque; 
+    border: blueviolet; 
+    border-radius: 4px;
+    cursor: pointer; 
+}
+
+
+#fact-container {
+    border: 1px solid brown; 
+    border-radius: 4px; 
+    padding: 10px; 
+    background-color:bisque;
+    max-width: 600px;
+    margin: 0 auto; 
+}
